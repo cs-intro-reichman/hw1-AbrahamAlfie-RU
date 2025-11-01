@@ -11,6 +11,6 @@ public class Bill3 {
 		doubleBill = Math.ceil(doubleBill);
 
 		System.out.println("Dear " + name3 + ", " + name2 + ", and " +
-				name1 + ": pay " + doubleBill + " each");
+				name1 + ": pay " + doubleBill + " Shekels each.");
 	}
 }
